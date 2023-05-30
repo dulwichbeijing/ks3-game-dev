@@ -1,9 +1,9 @@
 ---
 title: Contact
-author: Tao He
+author: Jared Rigby
 date: 2022-02-05
-category: Jekyll
+category: game-dev
 layout: post
 ---
 
-This is an contact page.
+If you have any questions about the course, please contact: [jared.rigby@dulwich.org](mailto:jared.rigby@dulwich.org)
